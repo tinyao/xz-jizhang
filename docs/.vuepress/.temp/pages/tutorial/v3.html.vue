@@ -1,0 +1,175 @@
+<template><div><h1 id="帮助文档-v3-0" tabindex="-1"><a class="header-anchor" href="#帮助文档-v3-0"><span>帮助文档 V3.0</span></a></h1>
+<p>作者：@小Z的数字生活</p>
+<blockquote>
+<p>2.x 版本如何迁移，看这里 👉 Numbers 3.0 升级指南 | @小Z的数字生活</p>
+</blockquote>
+<h2 id="🌈-写在前面" tabindex="-1"><a class="header-anchor" href="#🌈-写在前面"><span>🌈 写在前面</span></a></h2>
+<div class="hint-container tip">
+<p class="hint-container-title">Tips</p>
+<ul>
+<li>这套 Numbers 模板 + 快捷指令 方案，仅适用于 iPhone/iPad/Mac 用户，不适用于 Android 设备；</li>
+<li>初始配置时，推荐使用 Mac/iPad 完成；</li>
+<li>教程需要对 Numbers 操作有基本了解，不大熟悉的朋友可以翻阅 Apple 官方教程（<a href="https://support.apple.com/zh-cn/guide/numbers/welcome/mac" target="_blank" rel="noopener noreferrer">Mac</a> / <a href="https://support.apple.com/zh-cn/guide/numbers-ipad/welcome/ipados" target="_blank" rel="noopener noreferrer">iPad</a> / <a href="https://support.apple.com/zh-cn/guide/numbers-iphone/welcome/ios" target="_blank" rel="noopener noreferrer">iPhone</a>）。</li>
+<li>Numbers 记账重在灵活自定义，期待在这份模板基础上，研究出最适合你的记账方式。</li>
+<li>如有问题和疑问，请微信联系 zaozaoim，备注小红书。(小红书客服不长在线)</li>
+</ul>
+</div>
+<p><strong>为什么要记账？</strong></p>
+<p>记账不是生财，而是通过记录交易、分析报表、规划预算，把每一块钱花在真正带来幸福感🌈的地方，提升个人和家庭生活品质。不再莫名其妙地成为「月光族」。记录本身不是目的和终点，否则让人很难坚持。</p>
+<p>如实记录真正收支，是为了基于这些数据产生的分析结果，并进而指导行为调整。最终搞清楚你到底有多少钱，你的钱都花到哪里了，哪些钱花得更值。</p>
+<p><strong>有效的记账系统应该包含什么？</strong></p>
+<p>有效的记账系统应当能够支撑「记录消费 - 回顾消费 - 指导消费 - 记录消费」的循环流程。为此，我们的记账系统可以包含 4 个关键模块：账户&amp;分类、交易、报表、预算。</p>
+<ul>
+<li>账户&amp;分类：账户用于追踪你的资产，分类用于分析收支去向；</li>
+<li>交易：是一切收支分析回顾的基础；</li>
+<li>报表：将交易数据按不同维度，可视化地展现给你，快速洞察分析；</li>
+<li>预算：根据洞察分析，调整设置月/年预算，指导下一周期的消费行为。</li>
+</ul>
+<p><strong>为什么选择 Numbers 记账</strong></p>
+<ol>
+<li>安全稳定：Numbers 文件完全私有，不用担心数据丢失。还能通过 iCloud 多设备、账户同步。</li>
+<li>简单无广：纯粹记账，绝对没有理财广告。</li>
+<li>灵活自由：超级自由的表格和图表制作功能，还能设计地非常美观。</li>
+</ol>
+<h2 id="🚀-快速开始" tabindex="-1"><a class="header-anchor" href="#🚀-快速开始"><span>🚀 快速开始</span></a></h2>
+<h3 id="_1️⃣-获取-numbers-模板" tabindex="-1"><a class="header-anchor" href="#_1️⃣-获取-numbers-模板"><span>1️⃣ 获取 Numbers 模板</span></a></h3>
+<ul>
+<li>
+<p>如果尚未安装过 Numbers，请先前往 App Store 搜索下载
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/下载 Numbers.png?Expires=1729013105&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=sZBahGRZ0rNVxRz8AhGpBbRS7%2B4%3D" alt=""></p>
+</li>
+<li>
+<p>从百度网盘下载 Numbers 模板 (链接和提取码见发货消息)，下载文件后选择 Numbers 打开。
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/百度云盘-手机-打开Numbers.PNG?Expires=1729013143&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=moXf5vK920QzdmPJwvlNtIWHcq0%3D" alt=""></p>
+</li>
+<li>
+<p>如果是 Mac 端，下载 Numbers 文件后，直接打开即可。</p>
+</li>
+</ul>
+<h3 id="_2️⃣-获取「自动记账」快捷指令" tabindex="-1"><a class="header-anchor" href="#_2️⃣-获取「自动记账」快捷指令"><span>2️⃣ 获取「自动记账」快捷指令</span></a></h3>
+<ul>
+<li>请确保手机上已经安装了「快捷指令 / Shortcuts」App</li>
+<li>用浏览器打开下面的链接</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">Tips</p>
+<p>指令链接：<a href="https://www.icloud.com/shortcuts/f4689b6fd7da41049417b68c285f815b" target="_blank" rel="noopener noreferrer">https://www.icloud.com/shortcuts/f4689b6fd7da41049417b68c285f815b</a></p>
+</div>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/获取指令.png?Expires=1729013182&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=arc6Ml4tA9%2B%2FyajuKzJdx3pF0I0%3D" alt=""></p>
+<ul>
+<li>
+<p>编辑快捷指令，选择自己下载到的 Numbers 文件
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/编辑指令-1.png?Expires=1729013242&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=ilQV%2FiAe7U1k36OUmO0NQMEbWwc%3D" alt=""></p>
+</li>
+<li>
+<p>设置自动记账触发方式 1：轻点手机背面两下触发
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/快捷指令-设置触发.png?Expires=1729013262&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=NTozcm1DI5NYTBp1OzcohHd%2FAz8%3D" alt=""></p>
+</li>
+<li>
+<p>设置自动记账触发方式 2：Action 按键触发 (仅限 iPhone 15/16 Pro/Max)
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/快捷指令-操作按钮.png?Expires=1729013284&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=73117ZkZnS0S%2FgzYtbBWhbn6VMo%3D" alt=""></p>
+</li>
+<li>
+<p>设置自动记账触发方式 3：添加到手机桌面
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/快捷指令-添加到桌面.png?Expires=1729013295&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=L0EgWnqRFl0SIdVXxLDpG35%2FgI8%3D" alt=""></p>
+</li>
+</ul>
+<h3 id="_3️⃣-自动记一笔" tabindex="-1"><a class="header-anchor" href="#_3️⃣-自动记一笔"><span>3️⃣ 自动记一笔</span></a></h3>
+<video controls height="600px" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/Numbers%20%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6%E6%BC%94%E7%A4%BA.mov?Expires=1729014048&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=ne7thVfZfTKvSN12WLaXGtu6s10%3D" type="video/mp4">
+</video>
+<h2 id="🎨-自定义设置" tabindex="-1"><a class="header-anchor" href="#🎨-自定义设置"><span>🎨 自定义设置</span></a></h2>
+<div class="hint-container tip">
+<p class="hint-container-title">Tips</p>
+<p>如果你同时使用 Mac、iPhone、iPad 等多台设备，建议在自定义 Numbers 模板前，将 Numbers 文件存放在 iCloud 文件夹下，以便能在多设备间自动同步。详细可参考 <a href="">3. 如何多设备同步</a></p>
+</div>
+<h3 id="_1️⃣-设置账户" tabindex="-1"><a class="header-anchor" href="#_1️⃣-设置账户"><span>1️⃣ 设置账户</span></a></h3>
+<video controls height="500px" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/v3.0%20%E8%AE%BE%E7%BD%AE%E8%B4%A6%E6%88%B7%20iPad.mp4?Expires=1729014074&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=UtdgeuZLpDiTJMdeeDULAvR8%2BJ0%3D" type="video/mp4">
+</video>
+<video controls width="100%" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/v3.0%20%E8%AE%BE%E7%BD%AE%E8%B4%A6%E6%88%B7.mp4?Expires=1729014097&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=X3d%2BukJSR%2FPreQBj%2BhpQ3u26aF4%3D" type="video/mp4">
+</video>
+<h3 id="_2️⃣-设置分类" tabindex="-1"><a class="header-anchor" href="#_2️⃣-设置分类"><span>2️⃣ 设置分类</span></a></h3>
+<video controls height="500px" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/v3.0%20%E8%AE%BE%E7%BD%AE%E5%88%86%E7%B1%BB%20iPad.mp4?Expires=1729014288&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=nkhx1REu2ZqhHagLv6jUxF%2FaFNE%3D" type="video/mp4">
+</video>
+<video controls width="100%" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/V3.0%20%E8%AE%BE%E7%BD%AE%E5%88%86%E7%B1%BB.mp4?Expires=1729014301&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=fXIZY8T940NlBkhYOycNKlKChLs%3D" type="video/mp4">
+</video>
+<h3 id="_3️⃣-设置预算" tabindex="-1"><a class="header-anchor" href="#_3️⃣-设置预算"><span>3️⃣ 设置预算</span></a></h3>
+<video controls width="100%" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/v3.0%20%E8%AE%BE%E7%BD%AE%E9%A2%84%E7%AE%97.mp4?Expires=1729014311&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=L5Kvr5xbdVkzPPIRWpoBuEbDacg%3D" type="video/mp4">
+</video>
+<h3 id="_4️⃣-替换报表页的头像和名称" tabindex="-1"><a class="header-anchor" href="#_4️⃣-替换报表页的头像和名称"><span>4️⃣ 替换报表页的头像和名称</span></a></h3>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/修改头像.png?Expires=1729013759&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=KNc8vayhqKjsc3eoU%2Fd0%2FkAnweo%3D" alt=""></p>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/修改账本名.png?Expires=1729013773&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=oO%2FfaBOyIPEZmOeWsz0T%2FYVr3hM%3D" alt=""></p>
+<h2 id="💰-开始使用" tabindex="-1"><a class="header-anchor" href="#💰-开始使用"><span>💰 开始使用</span></a></h2>
+<h3 id="_1-清除示例数据" tabindex="-1"><a class="header-anchor" href="#_1-清除示例数据"><span>1. 清除示例数据？</span></a></h3>
+<p>模板中示例了支出、收入、转账类型的记录方式，你可以直接清除。但务必使用「删除行」的方式清楚，否则可能会将收支类型、分类、账户的下拉菜单格式也删掉。</p>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/清除示例数据.png?Expires=1729013790&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=nbapyTYA5CgaXfY4pmzAn8NUhOs%3D" alt=""></p>
+<h3 id="_2-如何切换报表页的年月" tabindex="-1"><a class="header-anchor" href="#_2-如何切换报表页的年月"><span>2. 如何切换报表页的年月？</span></a></h3>
+<p>直接点击图表卡片右上角的年、月切换即可。
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/FAQ-年月切换.png?Expires=1729013822&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=H8bDZkNg6hZbTRYD1EZaW5PEFQA%3D" alt=""></p>
+<h3 id="_3-如何多设备同步" tabindex="-1"><a class="header-anchor" href="#_3-如何多设备同步"><span>3. 如何多设备同步？</span></a></h3>
+<p>Numbers 文件可以通过 iCloud 实现 iPhone、iPad、Mac 多设备同步。你只需要将 Numbers 账本文件拖拽到 iCloud 中的文件夹即可。需要确保各设备登录的 Apple 账号是同一个哦。另外，iCloud 文件同步可能有几秒的延时，你可以尝试重新进入应用来触发 Numbers 刷新文件列表。
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/FAQ-多端同步.png?Expires=1729013832&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=QS96vsL85zVJhptvOPmuIC3YLBI%3D" alt=""></p>
+<h3 id="_4-如何与家人协作" tabindex="-1"><a class="header-anchor" href="#_4-如何与家人协作"><span>4. 如何与家人协作？</span></a></h3>
+<p>当你将 Numbers 文件保存在 iCloud 文件夹下后，还可以与家属协作共同记账。按下图操作将协作链接分享给家属后，对方打开链接加入协作即可。</p>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/添加协作.png?Expires=1729013845&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=vQjiJxT8XGXMEFzDqfmYBTGwwaw%3D" alt=""></p>
+<h2 id="🎢-进阶玩法-可选" tabindex="-1"><a class="header-anchor" href="#🎢-进阶玩法-可选"><span>🎢 进阶玩法 (可选)</span></a></h2>
+<h3 id="_1️⃣-语音记账" tabindex="-1"><a class="header-anchor" href="#_1️⃣-语音记账"><span>1️⃣ 语音记账</span></a></h3>
+<h3 id="_2️⃣-ai-记账-试验" tabindex="-1"><a class="header-anchor" href="#_2️⃣-ai-记账-试验"><span>2️⃣ AI 记账 (试验)</span></a></h3>
+<h3 id="_3️⃣-账单导入-微信" tabindex="-1"><a class="header-anchor" href="#_3️⃣-账单导入-微信"><span>3️⃣ 账单导入 (微信)</span></a></h3>
+<video controls width="100%" style="margin: 20px 0">
+  <source src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/v3.0%20%E5%BE%AE%E4%BF%A1%E8%B4%A6%E5%8D%95%E5%AF%BC%E5%85%A5.mp4?Expires=1729014337&OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&Signature=Hs5om0vi1M8IqBGNG99F1XueHog%3D" type="video/mp4">
+</video>
+<h3 id="_4️⃣-账单导入-支付宝" tabindex="-1"><a class="header-anchor" href="#_4️⃣-账单导入-支付宝"><span>4️⃣ 账单导入 (支付宝)</span></a></h3>
+<h2 id="🙋-常见问题" tabindex="-1"><a class="header-anchor" href="#🙋-常见问题"><span>🙋 常见问题</span></a></h2>
+<h3 id="💬-如何记信用卡还款、转账" tabindex="-1"><a class="header-anchor" href="#💬-如何记信用卡还款、转账"><span>💬 如何记信用卡还款、转账？</span></a></h3>
+<p>首先这里的转账，我们定义为自己账户之间的转账，不影响累计净值，比如信用卡还款、微信/支付宝提现到自己的银行卡等。而你转给其他人，仍然作为支出即可。在这套 Numbers 记账模板中，转账是与支出、收入并列的一种交易类型。因此记录转账时，请设置：</p>
+<ul>
+<li>账户：即转出金额的账户</li>
+<li>转入账户：即转入到的账户</li>
+<li>分类：选择「转账」</li>
+<li>收支类型：选择「转账」</li>
+</ul>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/FAQ-还款转账.png?Expires=1729013873&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=YFYbhF6cFtZbFwHtf5gq5g8Ue6A%3D" alt=""></p>
+<h3 id="💬-如何记退款" tabindex="-1"><a class="header-anchor" href="#💬-如何记退款"><span>💬 如何记退款？</span></a></h3>
+<p>退款本质是支出撤回、或者支出减少。如果把退款记作收入，会导致支出增加、收入增加，但这并不合实际。建议这样处理退款：假设购买高铁票￥600 因行程变更而取消，但因不到 48 小时扣了￥60，只退款了 540 ，你可以有两种方式处理：</p>
+<ul>
+<li>方式一：只记一笔 ￥60 支出，仍然记作交通费</li>
+<li>方式二：先记了一笔 ￥600 的交通支出，后再记一笔交通支出，但金额写成 -￥540</li>
+</ul>
+<p><img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/FAQ-退款.png?Expires=1729013894&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=75tw%2FKBR47g9FmNUYufi2Nh2cfw%3D" alt=""></p>
+<p>在处理微信/支付宝账单导入时，建议特别留意有退款的记录，否则可能会造成多记/少记。当然模板中的导入助手已经增加了识别并提示啦。</p>
+<h3 id="💬-改模板导致-⚠️-提示怎么办" tabindex="-1"><a class="header-anchor" href="#💬-改模板导致-⚠️-提示怎么办"><span>💬 改模板导致 ⚠️ 提示怎么办？</span></a></h3>
+<p>出现错误的情况有很多，我们建议详细阅读教程，逐渐理解模板中字段和相关公式的逻辑，才能更好地排查问题，自定义成自己需要的样子。</p>
+<h3 id="💬-图表样式改乱了-怎么办" tabindex="-1"><a class="header-anchor" href="#💬-图表样式改乱了-怎么办"><span>💬 图表样式改乱了，怎么办？</span></a></h3>
+<p>本记账模板内置了表格样式。如因修改、粘贴数据等原因，表格样式异常，可以选中表格，右键唤起菜单后，点击「清除覆盖并应用样式」。类似的，首页的图表也可以重新应用样式。
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/FAQ-样式1.png?Expires=1729013907&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=NH1FmP7GGGh71eZ6eYTQbxqK9os%3D" alt="图片">
+<img src="https://imzaozao.oss-cn-hangzhou.aliyuncs.com/xiaoz/FAQ-样式2.png?Expires=1729013919&amp;OSSAccessKeyId=TMP.3KjBioN3w7QX3VkLveozx3isn4hJcgYT7QjxouwwEBfUmDfP29TEUSefx8c3PVBAgnZVv3YMi7DJQjcfxpK4KhkFYzj6k6&amp;Signature=6XCYd%2BTPk0uIxGZ7puoymQEG040%3D" alt="图片"></p>
+<h3 id="💬-如何记录报销" tabindex="-1"><a class="header-anchor" href="#💬-如何记录报销"><span>💬 如何记录报销？</span></a></h3>
+<p>如果一笔支出最终可以报销回款，本质上不应成为支出，影响自己的消费分析和净值。所以，对于经常有报销类交易的朋友，建议：</p>
+<ul>
+<li>设置一个「应收账户」的虚拟账户</li>
+<li>当产生一笔可报销交易时，不记为支出，而记录为转账。比如从「银行卡 xxx」转账到「应收账户」，金额 1000</li>
+<li>当这笔交易报销下来时，再记一笔逆向转账。比如从「应收账户」转账到「银行卡 xxx」，金额 1000</li>
+</ul>
+<h3 id="💬-如何记录大额支出" tabindex="-1"><a class="header-anchor" href="#💬-如何记录大额支出"><span>💬 如何记录大额支出？</span></a></h3>
+<p>大额支出会影响预算很难有效、有序地坚持。因此面对大额支出，有两种处理方式：</p>
+<ul>
+<li>方式1：建立专门的大额预算项目，预留额度。</li>
+<li>方式2：将大额分期记，尤其是你确实使用了分期支付时。即 ￥6000 分 3 期的交易，可以记录为 3 笔 ￥2000 的支出，记录在 3 个月上。</li>
+</ul>
+<h3 id="💬-发现各账户余额对不上怎么办" tabindex="-1"><a class="header-anchor" href="#💬-发现各账户余额对不上怎么办"><span>💬 发现各账户余额对不上怎么办？</span></a></h3>
+<p>账户余额对不上，如果原因是少量几笔交易没有记录、或者某笔交易记错了，但又很难排查出来。建议处理方式是：</p>
+<ol>
+<li>在账户之间做转账，确保除了某一个账户不准外，其他账户余额都准确了。</li>
+<li>如果最后不准确的账户余额出入小，可以补一笔支出/收入，描述就记为调整余额即可，分类可选其他支出/收入。</li>
+</ol>
+<h2 id="🙋-联系作者" tabindex="-1"><a class="header-anchor" href="#🙋-联系作者"><span>🙋 联系作者</span></a></h2>
+<p>如有其他疑问，请微信联系 <code v-pre>zaozaoim</code>，备注小红书</p>
+</div></template>
+
+
